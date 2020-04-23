@@ -1,0 +1,15 @@
+1.  Use index name for loop
+2.  map name for using Dictinary or HeapSet
+3.  left and right for Array start and end pointer 
+4.  Use input and output name as array or list. 
+5.  Use meaningfulname
+6.  Write resuable code if posible
+7.  Read question multiple times and focus on each small details.
+9.  First write a algorithm \ apporch and run code manually for some sample input.
+11. Validate array upper and lower bound inicialization
+12. Declare variable type carefully specially int vs long , if you need to multiple make sure you are not exceeding upper limit 
+13. Ask clarifying question. 
+  a. Are we modifying inplace or returning new array.
+  b. if there is duplicate value.
+  c. size of input 
+14.  
